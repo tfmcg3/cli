@@ -1,5 +1,23 @@
 # Changelog
 
+## [10.8.2](https://github.com/npm/cli/compare/v10.8.1...v10.8.2) (2024-06-14)
+
+### Bug Fixes
+
+* [`2273183`](https://github.com/npm/cli/commit/22731831e22011e32fa0ca12178e242c2ee2b33d) [#7595](https://github.com/npm/cli/pull/7595) outdated: fixed wanted range for alias with version range (#7595) (@milaninfy)
+
+### Documentation
+
+* [`93883bb`](https://github.com/npm/cli/commit/93883bb6459208a916584cad8c6c72a315cf32af) [#7582](https://github.com/npm/cli/pull/7582) Improve manpage section for `package.json` `funding` properties (#7582) (@kemitchell)
+* [`92e71e6`](https://github.com/npm/cli/commit/92e71e6b0c7889e243e6b54ef8b4eb9656de95f8) [#7576](https://github.com/npm/cli/pull/7576) fix links to community discussions (#7576) (@leobalter)
+
+### Dependencies
+
+* [`04d6910`](https://github.com/npm/cli/commit/04d6910e474003762b4606837960b4eb10d7bcd9) [#7574](https://github.com/npm/cli/pull/7574) `@npmcli/package-json@5.1.1`
+* [`4ef4830`](https://github.com/npm/cli/commit/4ef4830dd792c2f23d3ffc7a10f797fc4ac8e5cb) [#7574](https://github.com/npm/cli/pull/7574) remove read-package-json-fast
+* [workspace](https://github.com/npm/cli/releases/tag/config-v8.3.4): `@npmcli/config@8.3.4`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmexec-v8.1.3): `libnpmexec@8.1.3`
+
 ## [10.8.1](https://github.com/npm/cli/compare/v10.8.0...v10.8.1) (2024-05-29)
 
 ### Bug Fixes
